@@ -9,8 +9,12 @@
       "path---extensions-twig-configuration-059ea1a1ab6364a25f10.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-e90c69f2a5adc54bf0bf.js",
-      "component---src-pages-index-js-e90c69f2a5adc54bf0bf.js.map"
+      "component---src-pages-index-js-0957f43ad7a0e017b503.js",
+      "component---src-pages-index-js-0957f43ad7a0e017b503.js.map"
+    ],
+    "component---src-pages-legal-js": [
+      "component---src-pages-legal-js-7282f8645686e141ad30.js",
+      "component---src-pages-legal-js-7282f8645686e141ad30.js.map"
     ],
     "path---extensions-twig-expressions": [
       "path---extensions-twig-expressions-ac5a4faff5ccad9efb3a.js",
@@ -40,6 +44,10 @@
       "path---extensions-twig-components-937fe5d8461478a05ad7.js",
       "path---extensions-twig-components-937fe5d8461478a05ad7.js.map"
     ],
+    "path---legal": [
+      "path---legal-a0e39f21c11f6a62c5ab.js",
+      "path---legal-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-5c8dbdcfd6cbb3a3c30a.js",
       "component---src-layouts-index-js-5c8dbdcfd6cbb3a3c30a.js.map"
@@ -51,6 +59,10 @@
     "path---extensions-drupal-expressions": [
       "path---extensions-drupal-expressions-740362485b001f3ddfb1.js",
       "path---extensions-drupal-expressions-740362485b001f3ddfb1.js.map"
+    ],
+    "path---legal-2": [
+      "path---legal-2-a0e39f21c11f6a62c5ab.js",
+      "path---legal-2-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -77,12 +89,12 @@
       "path---extensions-drupal-cli-a5da5df21318ac3bda8b.js.map"
     ],
     "component---src-pages-404-js": [
-      "component---src-pages-404-js-230eeeab062627419f0c.js",
-      "component---src-pages-404-js-230eeeab062627419f0c.js.map"
+      "component---src-pages-404-js-5a3260d3b487b5f288ee.js",
+      "component---src-pages-404-js-5a3260d3b487b5f288ee.js.map"
     ],
     "commons": [
-      "commons-25f64cbe93dcdbb23ea4.js",
-      "commons-25f64cbe93dcdbb23ea4.js.map"
+      "commons-41482230ab3e8a6731b5.js",
+      "commons-41482230ab3e8a6731b5.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
@@ -97,12 +109,16 @@
       "path---extensions-twig-cli-21d3acb7d0e251c35781.js.map"
     ],
     "app": [
-      "app-744d466e54bdf678fe79.js",
-      "app-744d466e54bdf678fe79.js.map"
+      "app-5938a33a6a19856849af.js",
+      "app-5938a33a6a19856849af.js.map"
     ],
     "component---src-templates-docs-js": [
-      "component---src-templates-docs-js-041776f1d0bfbc098177.js",
-      "component---src-templates-docs-js-041776f1d0bfbc098177.js.map"
+      "component---src-templates-docs-js-0f3a738ccdd471d44127.js",
+      "component---src-templates-docs-js-0f3a738ccdd471d44127.js.map"
+    ],
+    "component---src-pages-legal-2-js": [
+      "component---src-pages-legal-2-js-c2fa6d5c8aa6eb576d74.js",
+      "component---src-pages-legal-2-js-c2fa6d5c8aa6eb576d74.js.map"
     ],
     "path---extensions-drupal": [
       "path---extensions-drupal-1ae52df075b8dd5da7b8.js",
